@@ -1,0 +1,8 @@
+C:\Users\thail\OneDrive\Documentos\Visual Studio 2017\Projects\crudXamarin\crudXamarin\crudXamarin\bin\Debug\netstandard2.0\crudXamarin.deps.json
+C:\Users\thail\OneDrive\Documentos\Visual Studio 2017\Projects\crudXamarin\crudXamarin\crudXamarin\bin\Debug\netstandard2.0\crudXamarin.dll
+C:\Users\thail\OneDrive\Documentos\Visual Studio 2017\Projects\crudXamarin\crudXamarin\crudXamarin\obj\Debug\netstandard2.0\crudXamarin.csprojAssemblyReference.cache
+C:\Users\thail\OneDrive\Documentos\Visual Studio 2017\Projects\crudXamarin\crudXamarin\crudXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\thail\OneDrive\Documentos\Visual Studio 2017\Projects\crudXamarin\crudXamarin\crudXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\thail\OneDrive\Documentos\Visual Studio 2017\Projects\crudXamarin\crudXamarin\crudXamarin\obj\Debug\netstandard2.0\crudXamarin.csproj.CoreCompileInputs.cache
+C:\Users\thail\OneDrive\Documentos\Visual Studio 2017\Projects\crudXamarin\crudXamarin\crudXamarin\obj\Debug\netstandard2.0\crudXamarin.AssemblyInfoInputs.cache
+C:\Users\thail\OneDrive\Documentos\Visual Studio 2017\Projects\crudXamarin\crudXamarin\crudXamarin\obj\Debug\netstandard2.0\crudXamarin.AssemblyInfo.cs
